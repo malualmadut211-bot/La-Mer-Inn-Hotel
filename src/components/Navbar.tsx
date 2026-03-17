@@ -40,9 +40,6 @@ export default function Navbar() {
         <div className="max-w-[1440px] mx-auto px-6 lg:px-12 h-full flex items-center justify-between">
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2 group" aria-label="La Mer Inn Hotel - Home">
-            <svg width="38" height="38" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-accent">
-              <path d="M2 12h4l3-9 5 18 3-9h5" />
-            </svg>
             <span className="font-display font-bold text-xl tracking-wide relative overflow-hidden">
               La Mer Inn
               <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/30 to-transparent -translate-x-full group-hover:animate-[shimmer_0.8s_forwards]" />

@@ -36,9 +36,6 @@ export default function Footer() {
           {/* Column 1 - Brand */}
           <div>
             <div className="flex items-center gap-2 mb-5 text-white">
-              <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" className="text-accent">
-                <path d="M2 12h4l3-9 5 18 3-9h5" />
-              </svg>
               <span className="font-display font-bold text-2xl tracking-wide">La Mer Inn</span>
             </div>
             <p className="font-accent italic text-base text-bg-secondary leading-relaxed mb-6">

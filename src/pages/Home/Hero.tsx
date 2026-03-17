@@ -12,7 +12,7 @@ export default function Hero() {
       <div className="absolute inset-0 z-0">
         <img 
           src="https://images.unsplash.com/photo-1542314831-c6a4d1409e50?auto=format&fit=crop&q=80&w=1920" 
-          alt="La Mer Inn Hotel Exterior" 
+          alt="" 
           className="w-full h-full object-cover"
         />
       </div>
